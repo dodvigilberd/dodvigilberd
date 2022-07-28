@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dodvigilberd
+- 👋 Hi, I’m @dovigilberd
 - 👀 I’m interested in roof identification for meassurements 
 - 🌱 I’m currently learning and trying to start a small drone mapping business- a one man operation
 - 💞️ I’m looking to collaborate on ...
